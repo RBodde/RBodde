@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Robyn! 👋
 
-<!--
-**RBodde/RBodde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer in training with experience in HTML and currently learning CSS. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: CSS
+- 🔭 Working on: Developer Certifications with ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+- 🌍 Languages: English, HTML
+
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## Featured Projects 💻
+
+Coming Soon
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/robyn-bodde-8b8a8026/)
+
+
+
